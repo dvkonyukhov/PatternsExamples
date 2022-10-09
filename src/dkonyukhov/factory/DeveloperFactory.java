@@ -1,17 +1,17 @@
 package dkonyukhov.factory;
 
 public class DeveloperFactory {
-    private final String developerType;
+    private final DeveloperType developerType;
 
-    public DeveloperFactory(String developerType) {
+    public DeveloperFactory(DeveloperType developerType) {
         this.developerType = developerType;
     }
 
     public Developer createDeveloper() {
         Developer newDeveloper = null;
         switch (developerType) {
-            case "Cpp" -> newDeveloper = new CppDeveloper();
-            case "Java" -> newDeveloper = new JavaDeveloper();
+            case CPP -> newDeveloper = new CppDeveloper();
+            case JAVA -> newDeveloper = new JavaDeveloper();
         }
 
         return newDeveloper;
