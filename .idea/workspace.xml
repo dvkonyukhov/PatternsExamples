@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="424a3c5d-6b4d-4bca-8ffb-20f60c1155d2" name="Changes" comment="синглтон">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EuUL5VPb61HrzYtvy90xaDfOXw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/java projects/chat/business-chat-api-develop@1776b3f15a7&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java projects\PstternsExamples\src\dkonyukhov\observer" />
+      <recent name="D:\java projects\PstternsExamples" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SingletonRunner">
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dkonyukhov.observer.Example" />
+      <module name="PstternsExamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dkonyukhov.observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactoryRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dkonyukhov.factory.FactoryRunner" />
+      <module name="PstternsExamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dkonyukhov.factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObserverRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dkonyukhov.observer.ObserverRunner" />
+      <module name="PstternsExamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dkonyukhov.observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingletonRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dkonyukhov.singleton.SingletonRunner" />
+      <module name="PstternsExamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dkonyukhov.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dkonyukhov.abstractFactory.AbstractFactoryRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dkonyukhov.abstractFactory.AbstractFactoryRunner" />
+      <module name="PstternsExamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dkonyukhov.abstractFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SingletonRunner" />
+        <item itemvalue="Application.dkonyukhov.abstractFactory.AbstractFactoryRunner" />
+        <item itemvalue="Application.FactoryRunner" />
+        <item itemvalue="Application.ObserverRunner" />
+        <item itemvalue="Application.Example" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="424a3c5d-6b4d-4bca-8ffb-20f60c1155d2" name="Changes" comment="" />
+      <created>1663444906467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663444906467</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1663444952701</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663444952701</updated>
+    </task>
+    <task id="LOCAL-00002" summary="наблюдатель">
+      <created>1663447063767</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663447063767</updated>
+    </task>
+    <task id="LOCAL-00003" summary="абстрактная фабрика">
+      <created>1665340084017</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665340084017</updated>
+    </task>
+    <task id="LOCAL-00004" summary="синглтон">
+      <created>1665344851827</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665344851827</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="наблюдатель" />
+    <MESSAGE value="абстрактная фабрика" />
+    <MESSAGE value="синглтон" />
+    <option name="LAST_COMMIT_MESSAGE" value="синглтон" />
+  </component>
+</project>
